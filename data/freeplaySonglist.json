@@ -1,0 +1,14 @@
+{
+	"songs": [
+		{
+			"bpm": 140,
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": null,
+			"char": "mario",
+			"name": "Super",
+			"color": "#F90A01"
+		}
+	]
+}

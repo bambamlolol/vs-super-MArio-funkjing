@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfpng.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="danceLeft0000" x="0" y="0" width="294" height="212" frameX="0" frameY="-39" frameWidth="294" frameHeight="251"/>
+	<SubTexture name="danceLeft0001" x="294" y="0" width="287" height="218" frameX="-6" frameY="-27" frameWidth="294" frameHeight="251"/>
+	<SubTexture name="danceLeft0002" x="581" y="0" width="264" height="225" frameX="-29" frameY="-13" frameWidth="294" frameHeight="251"/>
+	<SubTexture name="danceLeft0003" x="845" y="0" width="237" height="223" frameX="-57" frameY="-7" frameWidth="294" frameHeight="251"/>
+	<SubTexture name="danceLeft0004" x="1082" y="0" width="224" height="225" frameX="-69" frameY="0" frameWidth="294" frameHeight="251"/>
+	<SubTexture name="danceRight0000" x="1306" y="0" width="295" height="212" frameX="0" frameY="-39" frameWidth="295" frameHeight="251"/>
+	<SubTexture name="danceRight0001" x="1601" y="0" width="288" height="218" frameX="-1" frameY="-27" frameWidth="295" frameHeight="251"/>
+	<SubTexture name="danceRight0002" x="0" y="225" width="265" height="225" frameX="-1" frameY="-13" frameWidth="295" frameHeight="251"/>
+	<SubTexture name="danceRight0003" x="265" y="225" width="238" height="223" frameX="0" frameY="-7" frameWidth="295" frameHeight="251"/>
+	<SubTexture name="danceRight0004" x="503" y="225" width="224" height="225" frameX="-1" frameY="0" frameWidth="295" frameHeight="251"/>
+	<SubTexture name="down0000" x="727" y="225" width="332" height="241" frameX="0" frameY="-13" frameWidth="332" frameHeight="254"/>
+	<SubTexture name="down0001" x="1059" y="225" width="318" height="245" frameX="-7" frameY="-9" frameWidth="332" frameHeight="254"/>
+	<SubTexture name="down0002" x="1377" y="225" width="309" height="248" frameX="-12" frameY="-5" frameWidth="332" frameHeight="254"/>
+	<SubTexture name="down0003" x="1686" y="225" width="304" height="252" frameX="-14" frameY="-2" frameWidth="332" frameHeight="254"/>
+	<SubTexture name="down0004" x="0" y="477" width="302" height="254" frameX="-15" frameY="0" frameWidth="332" frameHeight="254"/>
+	<SubTexture name="left0000" x="302" y="477" width="345" height="197"/>
+	<SubTexture name="left0001" x="647" y="477" width="277" height="197" frameX="-67" frameY="0" frameWidth="345" frameHeight="197"/>
+	<SubTexture name="left0002" x="924" y="477" width="262" height="197" frameX="-82" frameY="0" frameWidth="345" frameHeight="197"/>
+	<SubTexture name="left0003" x="1186" y="477" width="258" height="197" frameX="-86" frameY="0" frameWidth="345" frameHeight="197"/>
+	<SubTexture name="left0004" x="1444" y="477" width="256" height="197" frameX="-88" frameY="0" frameWidth="345" frameHeight="197"/>
+	<SubTexture name="right0000" x="1700" y="477" width="231" height="259"/>
+	<SubTexture name="right0001" x="0" y="736" width="206" height="259" frameX="0" frameY="0" frameWidth="231" frameHeight="259"/>
+	<SubTexture name="right0002" x="206" y="736" width="198" height="259" frameX="0" frameY="0" frameWidth="231" frameHeight="259"/>
+	<SubTexture name="right0003" x="404" y="736" width="196" height="259" frameX="0" frameY="0" frameWidth="231" frameHeight="259"/>
+	<SubTexture name="right0004" x="600" y="736" width="194" height="259" frameX="0" frameY="0" frameWidth="231" frameHeight="259"/>
+	<SubTexture name="up0000" x="794" y="736" width="124" height="327" frameX="-26" frameY="0" frameWidth="176" frameHeight="328"/>
+	<SubTexture name="up0001" x="918" y="736" width="148" height="307" frameX="-14" frameY="-21" frameWidth="176" frameHeight="328"/>
+	<SubTexture name="up0002" x="1066" y="736" width="169" height="298" frameX="-4" frameY="-30" frameWidth="176" frameHeight="328"/>
+	<SubTexture name="up0003" x="1235" y="736" width="172" height="292" frameX="-2" frameY="-35" frameWidth="176" frameHeight="328"/>
+	<SubTexture name="up0004" x="1407" y="736" width="176" height="286" frameX="0" frameY="-41" frameWidth="176" frameHeight="328"/>
+</TextureAtlas>
