@@ -1,0 +1,37 @@
+{
+    "credits" : [
+        {
+            "name" : "Bam",
+            "role" : "Main mod developer",
+            "icon" : "credits/balls",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/bambamlolo"
+                }
+            ]
+        },
+        {
+            "name" : "Smash Bandicoot",
+            "role" : "March 31st Composer",
+            "icon" : "credits/balls",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/bambamlolo"
+                }
+            ]
+        },
+        {
+            "name" : "REQUIEM",
+            "role" : "Virgin Rage (liquid mix) Composer",
+            "icon" : "credits/balls",
+            "urls" : [
+                {
+                    "name" : "YouTube",
+                    "url" : "https://www.youtube.com/watch?v=BGnHSdj6RJA"
+                }
+            ]
+        }
+    ]
+}

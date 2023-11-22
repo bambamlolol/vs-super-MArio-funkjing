@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="yceJam.png" width="5120" height="2048">
+    <SubTexture name="logo0000" x="0" y="0"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0001" x="0" y="512"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0002" x="1536" y="0"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="logo0003" x="2560" y="1536"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="logo0004" x="4096" y="512"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0005" x="4608" y="512"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0006" x="4096" y="1024"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0007" x="4096" y="1536"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0008" x="4608" y="1024"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0009" x="4608" y="1536"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0010" x="0" y="1024"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0011" x="0" y="1536"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0012" x="512" y="0"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0013" x="512" y="512"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0014" x="512" y="1024"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0015" x="512" y="1536"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0016" x="1024" y="0"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0017" x="1024" y="512"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0018" x="1024" y="1024"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0019" x="1024" y="1536"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0020" x="1536" y="512"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0021" x="1536" y="1024"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0022" x="1536" y="1536"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0023" x="2048" y="0"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0024" x="2048" y="512"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0025" x="2048" y="1024"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0026" x="2048" y="1536"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0027" x="2560" y="0"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0028" x="2560" y="512"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0029" x="2560" y="1024"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0030" x="3072" y="0"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0031" x="3072" y="512"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0032" x="3072" y="1024"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0033" x="3072" y="1536"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0034" x="3584" y="0"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0035" x="4096" y="0"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0036" x="4608" y="0"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0037" x="3584" y="512"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0038" x="3584" y="1024"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="logo0039" x="3584" y="1536"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+</TextureAtlas>

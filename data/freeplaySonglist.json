@@ -1,14 +1,34 @@
 {
 	"songs": [
 		{
-			"bpm": 140,
+			"displayName": null,
+			"difficulties": [
+				"Hard"
+			],
+			"char": "mario",
+			"color": "#F90A01",
+			"name": "Super",
+			"bpm": 140
+		},
+		{
 			"difficulties": [
 				"Hard"
 			],
 			"displayName": null,
-			"char": "mario",
-			"name": "Super",
-			"color": "#F90A01"
+			"char": "pino",
+			"bpm": 125,
+			"name": "March 31st",
+			"color": "#FFFFFF"
+		},
+		{
+			"displayName": null,
+			"difficulties": [
+				"Hard"
+			],
+			"char": "sonic",
+			"color": "#0000FF",
+			"name": "Console Wars",
+			"bpm": 165
 		}
 	]
 }

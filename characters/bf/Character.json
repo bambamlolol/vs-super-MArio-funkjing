@@ -9,15 +9,15 @@
 		"y": 480
 	},
 	"healthbarColor": "#31B0D1",
-	"flipX": false,
+	"flipX": true,
 	"anims": [
 		{
 			"indices": null,
-			"x": 160,
-			"y": 0,
-			"anim": "danceRight",
+			"x": 9,
+			"y": -63,
+			"anim": "left",
 			"loop": false,
-			"name": "danceRight",
+			"name": "singRIGHT",
 			"framerate": 24
 		},
 		{
@@ -31,20 +31,20 @@
 		},
 		{
 			"indices": null,
-			"x": 9,
-			"y": -63,
-			"anim": "left",
+			"x": 160,
+			"y": 0,
+			"anim": "danceRight",
 			"loop": false,
-			"name": "singRIGHT",
+			"name": "danceRight",
 			"framerate": 24
 		},
 		{
 			"indices": null,
-			"x": 0,
-			"y": 0,
-			"anim": "danceLeft",
+			"x": 22,
+			"y": 74,
+			"anim": "right",
 			"loop": false,
-			"name": "danceLeft",
+			"name": "singLEFT",
 			"framerate": 24
 		},
 		{
@@ -58,11 +58,11 @@
 		},
 		{
 			"indices": null,
-			"x": 22,
-			"y": 74,
-			"anim": "right",
+			"x": 0,
+			"y": 0,
+			"anim": "danceLeft",
 			"loop": false,
-			"name": "singLEFT",
+			"name": "danceLeft",
 			"framerate": 24
 		}
 	],

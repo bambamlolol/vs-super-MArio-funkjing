@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pngf.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="danceLeft0000" x="0" y="0" width="1022" height="757" frameX="0" frameY="-24" frameWidth="1022" frameHeight="781"/>
+	<SubTexture name="danceLeft0001" x="0" y="1514" width="974" height="738" frameX="-48" frameY="-43" frameWidth="1022" frameHeight="781"/>
+	<SubTexture name="danceLeft0002" x="1022" y="0" width="917" height="772" frameX="-105" frameY="-9" frameWidth="1022" frameHeight="781"/>
+	<SubTexture name="danceLeft0003" x="1947" y="772" width="882" height="770" frameX="-140" frameY="-11" frameWidth="1022" frameHeight="781"/>
+	<SubTexture name="danceLeft0004" x="0" y="2252" width="866" height="781" frameX="-156" frameY="0" frameWidth="1022" frameHeight="781"/>
+	<SubTexture name="danceRight0000" x="0" y="757" width="1022" height="757" frameX="0" frameY="-24" frameWidth="1022" frameHeight="781"/>
+	<SubTexture name="danceRight0001" x="974" y="1514" width="973" height="738" frameX="-1" frameY="-43" frameWidth="1022" frameHeight="781"/>
+	<SubTexture name="danceRight0002" x="1939" y="0" width="916" height="772" frameX="-1" frameY="-9" frameWidth="1022" frameHeight="781"/>
+	<SubTexture name="danceRight0003" x="1947" y="1542" width="881" height="770" frameX="-1" frameY="-11" frameWidth="1022" frameHeight="781"/>
+	<SubTexture name="danceRight0004" x="866" y="2252" width="865" height="781" frameX="-1" frameY="0" frameWidth="1022" frameHeight="781"/>
+</TextureAtlas>

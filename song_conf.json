@@ -8,6 +8,32 @@
 			"end_cutscene": null,
 			"cutscene": null,
 			"name": "super"
+		},
+		{
+			"scripts": [
+				"forceCutscene",
+				"ugh-cutscene"
+			],
+			"difficulties": null,
+			"end_cutscene": null,
+			"cutscene": "ugh-cutscene",
+			"name": "march 31st"
+		},
+		{
+			"scripts": [
+				"stages/lisreal"
+			],
+			"difficulties": null,
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "gamebreaker (l is real mix)"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "console wars"
 		}
 	]
 }
